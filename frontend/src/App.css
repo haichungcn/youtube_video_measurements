@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+main h2{
+  width:200px;
+  position: relative;
+  background-color: #fff;
+  bottom: -25px;
+  left: 55px;
+}
